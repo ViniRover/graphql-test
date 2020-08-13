@@ -2,4 +2,4 @@
 
 ## Descrição:
 
-Repositório criado para o aprendizado em GraphQL
+Repositório criado para o aprendizado em [GraphQL](https://graphql.org/learn/)
